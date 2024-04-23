@@ -130,6 +130,12 @@ The source code for this project consists of the following key files:
 
 ![WhatsApp Image 2024-04-22 at 11 08 35 PM (2)](https://github.com/Nagavaram5/IR_FinalProject/assets/72292611/a4deed1c-40e6-41fd-8a7c-1c404c0f6aae)
 
+
+### Output
+
+![WhatsApp Image 2024-04-22 at 10 39 34 PM](https://github.com/Nagavaram5/IR_Project/assets/72292611/789e84e1-1b09-412f-ab7b-57c9e59130c8)
+
+
 ### Dependencies
 The project uses the following open-source dependencies:
 
