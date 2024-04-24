@@ -106,34 +106,11 @@ Scikit-Learn. (n.d.). [Learn](https://scikit-learn.org/stable/)
 Scrapy 2.11 documentation - Scrapy 2.11.1 documentation. (2024, April 11). [Scrapy 2.11 documentation](https://docs.scrapy.org/en/latest/)
 
 ## Source Code
-The source code for this project consists of the following key files:
-
-### main.py
-![WhatsApp Image 2024-04-22 at 11 06 13 PM](https://github.com/Nagavaram5/IR_FinalProject/assets/72292611/1815b8dc-6b73-4f71-8f84-c71d625aa4f0)
-
-![WhatsApp Image 2024-04-22 at 11 06 13 PM (1)](https://github.com/Nagavaram5/IR_FinalProject/assets/72292611/9073dc9a-acc3-46f9-9561-5f2b7bb445fa)
-
-
-### indexer.py
-![WhatsApp Image 2024-04-22 at 11 07 18 PM](https://github.com/Nagavaram5/IR_FinalProject/assets/72292611/dd2ff78b-2f58-4ff4-bb16-1ae6aed1ab19)
-
-![WhatsApp Image 2024-04-22 at 11 07 18 PM (1)](https://github.com/Nagavaram5/IR_FinalProject/assets/72292611/c362619a-ee7d-49d1-bd8a-73d4920503fb)
-
-![WhatsApp Image 2024-04-22 at 11 07 18 PM (2)](https://github.com/Nagavaram5/IR_FinalProject/assets/72292611/b4c28e8a-5f2c-437b-89d1-b7ba3d951d01)
-
-### indexer2.py
-![WhatsApp Image 2024-04-22 at 11 08 34 PM](https://github.com/Nagavaram5/IR_FinalProject/assets/72292611/768ddb3b-81d2-4815-ab08-451ec17eb634)
-
-![WhatsApp Image 2024-04-22 at 11 08 35 PM](https://github.com/Nagavaram5/IR_FinalProject/assets/72292611/de152942-a54c-458f-82bf-7c22009ad003)
-
-![WhatsApp Image 2024-04-22 at 11 08 35 PM (1)](https://github.com/Nagavaram5/IR_FinalProject/assets/72292611/e7e44820-d78b-4b59-848b-98f243324e66)
-
-![WhatsApp Image 2024-04-22 at 11 08 35 PM (2)](https://github.com/Nagavaram5/IR_FinalProject/assets/72292611/a4deed1c-40e6-41fd-8a7c-1c404c0f6aae)
 
 
 ### Output
+<img width="1470" alt="Screenshot 2024-04-23 at 12 01 31" src="https://github.com/Nagavaram5/IR_Project/assets/72292611/e6f8ee33-ec50-44da-8490-f70bb04988fd">
 
-![WhatsApp Image 2024-04-22 at 10 39 34 PM](https://github.com/Nagavaram5/IR_Project/assets/72292611/789e84e1-1b09-412f-ab7b-57c9e59130c8)
 
 
 ### Dependencies
